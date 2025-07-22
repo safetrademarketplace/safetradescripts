@@ -3,7 +3,7 @@ local StarterGui   = game:GetService("StarterGui")
 local TweenService = game:GetService("TweenService")
 local player      = Players.LocalPlayer
 local guiParent   = player:WaitForChild("PlayerGui")
-local DURATION     = 5
+local DURATION     = 8
 local DISCORD_LINK = "https://discord.gg/uJTqjjVbb8"
 local MESSAGE_TEXT = "This script was created by SafeTrade Marketplace. This script and more like it are available for free in our discord server"
 
