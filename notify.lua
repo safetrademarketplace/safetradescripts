@@ -48,7 +48,7 @@ msgLabel.Size               = UDim2.new(
 )
 msgLabel.BackgroundTransparency = 1
 msgLabel.Font               = Enum.Font.GothamBold
-msgLabel.TextSize           = 35
+msgLabel.TextSize           = 30
 msgLabel.TextColor3         = Color3.fromRGB(235, 235, 235)
 msgLabel.TextWrapped        = true
 msgLabel.TextYAlignment     = Enum.TextYAlignment.Top
