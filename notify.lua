@@ -5,7 +5,7 @@ local player      = Players.LocalPlayer
 local guiParent   = player:WaitForChild("PlayerGui")
 local DURATION     = 5
 local DISCORD_LINK = "https://discord.gg/uJTqjjVbb8"
-local MESSAGE_TEXT = "This script was created by SafeTrade Marketplace and is available keyless in our Discord server."
+local MESSAGE_TEXT = "This script was created by SafeTrade Marketplace. This script and more like it are available for free in our discord server"
 
 local fadeIn  = TweenInfo.new(0.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out)
 local fadeOut = TweenInfo.new(0.3, Enum.EasingStyle.Quad, Enum.EasingDirection.In)
